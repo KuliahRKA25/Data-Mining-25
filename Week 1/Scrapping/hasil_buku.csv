@@ -1,0 +1,4 @@
+id,judul,harga_rupiah,stok,url
+B001,Dasar Data Mining,125000,Tersedia,https://contoh.invalid/buku/dasar-data-mining
+B002,Python untuk Analisis Data,149500,Habis,https://contoh.invalid/buku/python-analisis
+B003,Statistika Praktis,98000,,https://contoh.invalid/buku/statistika-praktis
