@@ -1,0 +1,9 @@
+,n_unique (incl. NaN),n_unique (excl. NaN),missing %,top value,top share %
+archetype,660,659,39.54,,39.5
+race,87,86,0.02,Normal,16.6
+type,29,29,0.0,Effect Monster,35.3
+frame_type,17,17,0.0,effect,41.0
+attribute,8,7,35.71,,35.7
+ban_tcg,4,3,98.47,,98.5
+ban_ocg,4,3,98.67,,98.7
+ban_goat,4,3,99.5,,99.5
