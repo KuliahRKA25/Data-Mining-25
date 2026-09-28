@@ -1,0 +1,8 @@
+column,placeholder,meaning,rows converted
+tcgplayer_price,0,no listing on TCGplayer,530
+cardmarket_price,0,no listing on Cardmarket,504
+ebay_price,0,no listing on eBay,2290
+amazon_price,0,no listing on Amazon,2581
+level,0,"monster without a level, Link monsters for example",115
+atk,-1,attack value not printed on the card,84
+def,-1,defence value not printed on the card,55
